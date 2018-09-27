@@ -1,0 +1,8 @@
+D:\DOC\CODES\RecupIP\RecupIP\bin\Release\RecupIP.exe.config
+D:\DOC\CODES\RecupIP\RecupIP\bin\Release\RecupIP.exe
+D:\DOC\CODES\RecupIP\RecupIP\bin\Release\RecupIP.pdb
+D:\DOC\CODES\RecupIP\RecupIP\obj\Release\RecupIP.Principal.resources
+D:\DOC\CODES\RecupIP\RecupIP\obj\Release\RecupIP.Properties.Resources.resources
+D:\DOC\CODES\RecupIP\RecupIP\obj\Release\RecupIP.csproj.GenerateResource.Cache
+D:\DOC\CODES\RecupIP\RecupIP\obj\Release\RecupIP.exe
+D:\DOC\CODES\RecupIP\RecupIP\obj\Release\RecupIP.pdb

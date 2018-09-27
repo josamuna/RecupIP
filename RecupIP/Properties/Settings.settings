@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RecupIP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strFilePreference" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Preferences</Value>
+    </Setting>
+    <Setting Name="strPreference" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Database</Value>
+    </Setting>
+    <Setting Name="strParamDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UserDB</Value>
+    </Setting>
+    <Setting Name="multiple" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="strChifferKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">isig</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

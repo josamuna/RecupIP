@@ -1,0 +1,11 @@
+D:\DOC\CODES\GenerateKey\GenerateKey\bin\Debug\GenerateKey.exe.config
+D:\DOC\CODES\GenerateKey\GenerateKey\bin\Debug\GenerateKey.exe
+D:\DOC\CODES\GenerateKey\GenerateKey\bin\Debug\GenerateKey.pdb
+D:\DOC\CODES\GenerateKey\GenerateKey\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\CODES\GenerateKey\GenerateKey\obj\Debug\GenerateKey.Preference.resources
+D:\DOC\CODES\GenerateKey\GenerateKey\obj\Debug\GenerateKey.Principal.resources
+D:\DOC\CODES\GenerateKey\GenerateKey\obj\Debug\GenerateKey.Properties.Resources.resources
+D:\DOC\CODES\GenerateKey\GenerateKey\obj\Debug\GenerateKey.Queries.resources
+D:\DOC\CODES\GenerateKey\GenerateKey\obj\Debug\GenerateKey.csproj.GenerateResource.Cache
+D:\DOC\CODES\GenerateKey\GenerateKey\obj\Debug\GenerateKey.exe
+D:\DOC\CODES\GenerateKey\GenerateKey\obj\Debug\GenerateKey.pdb
